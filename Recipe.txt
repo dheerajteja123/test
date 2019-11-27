@@ -20,3 +20,5 @@ beans
 pizza
 
 
+vada
+masalavada
