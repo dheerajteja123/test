@@ -11,3 +11,6 @@ Fish
 
 fish fry
 ladiesginger fry
+
+dosa
+idli
