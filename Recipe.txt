@@ -16,5 +16,9 @@ dosa
 idli
 
 
+beans 
+pizza
+
+
 vada
 masalavada
